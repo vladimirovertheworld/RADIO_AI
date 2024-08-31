@@ -24,3 +24,4 @@ yarn-error.log
 # Project specific
 creds.json
 *.log
+creds_template.json
